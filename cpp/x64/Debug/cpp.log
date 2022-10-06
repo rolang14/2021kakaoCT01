@@ -1,0 +1,5 @@
+﻿  cpp.cpp
+C:\Users\USER-PC\source\repos\rolang14\2021kakaoCT01\cpp\cpp.cpp(10,35): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER-PC\source\repos\rolang14\2021kakaoCT01\cpp\cpp.cpp(71,28): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER-PC\source\repos\rolang14\2021kakaoCT01\cpp\cpp.cpp(82,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  cpp.vcxproj -> C:\Users\USER-PC\source\repos\rolang14\2021kakaoCT01\x64\Debug\cpp.exe
